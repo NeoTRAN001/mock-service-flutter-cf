@@ -20,7 +20,7 @@
       "username": "Username",
       "email": "email@yahoo.com",
       "image": "https://1000marcas.net/wp-content/uploads/2020/01/Firefox-logo.png"
-    },
+    }
   ],
   "posts": [
     {
@@ -53,5 +53,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
+  ]
 }
