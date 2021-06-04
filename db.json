@@ -1,0 +1,57 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "NameAccount",
+      "username": "Username",
+      "email": "email@yahoo.com",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/01/Firefox-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Jaime",
+      "username": "Username",
+      "email": "email@yahoo.com",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/01/Firefox-logo.png"
+    },
+    {
+      "id": 3,
+      "name": "Diana",
+      "username": "Username",
+      "email": "email@yahoo.com",
+      "image": "https://1000marcas.net/wp-content/uploads/2020/01/Firefox-logo.png"
+    },
+  ] 
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "Un texto cualquiera va por este lado",
+      "userId": "1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "Un texto cualquiera va por este lado XD",
+      "userId": "2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "Un texto cualquiera va por este lado :D",
+      "userId": "3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
